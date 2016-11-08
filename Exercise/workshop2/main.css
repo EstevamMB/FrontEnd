@@ -1,0 +1,14 @@
+img {
+	position: relative;
+	left: 30%;
+}
+
+h1 {
+	font-family: tahoma;
+}
+
+div ul li {
+	text-decoration: none;
+	text-transform: none;
+	color: lightblue;
+}
