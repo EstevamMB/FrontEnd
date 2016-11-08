@@ -7,8 +7,7 @@ h1 {
 	font-family: tahoma;
 }
 
-div ul li {
+div ul li a {
 	text-decoration: none;
-	text-transform: none;
 	color: lightblue;
 }
