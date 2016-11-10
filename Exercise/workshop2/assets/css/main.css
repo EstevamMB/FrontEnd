@@ -34,7 +34,7 @@ table {
 	text-indent: 10px 10px;
 	letter-spacing: 1px;
 	width: 80%;
-	border: solid white 0px;
+	border-collapse: collapse;
 }
 
 table caption {
