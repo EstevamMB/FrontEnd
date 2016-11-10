@@ -1,6 +1,15 @@
+* {
+	font-family: Tahoma;
+}
+
+body {
+	background: url("http://lifesearching.com/wp-content/uploads/2016/05/cricket.jpg") no-repeat;
+	width: 800px;
+	background-size: 800px;
+}
 img {
 	position: relative;
-	left: 30%;
+	left: 40%;
 }
 
 h1 {
@@ -9,5 +18,45 @@ h1 {
 
 div ul li a {
 	text-decoration: none;
-	color: lightblue;
+	color: #69A6C2;
+	font-family: Tahoma;
+	margin-left: -40px;
+}
+div ul li {
+	list-style-type: none;
+	text-align: left;
+}
+
+table {
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 12px;
+	text-indent: 10px 10px;
+	letter-spacing: 1px;
+	width: 80%;
+	border: solid white 0px;
+}
+
+table caption {
+	background-color: lightgrey;
+	font-size: 18px;
+	border: solid white 1px;
+	
+}
+
+table thead {
+	background-color: black;
+	color: white;
+}
+
+tfoot tr td {
+	text-align: right;
+}
+
+.lista2 {
+	margin-left: -40px;
+}
+
+p {
+	text-align: justify;
 }
