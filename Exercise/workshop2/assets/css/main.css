@@ -33,7 +33,6 @@ table {
 	font-size: 12px;
 	text-indent: 10px 10px;
 	letter-spacing: 1px;
-	width: 80%;
 	border-collapse: collapse;
 }
 
@@ -48,6 +47,15 @@ table thead {
 	background-color: black;
 	color: white;
 }
+
+table thead tr th,
+table tbody tr td  {
+	padding-left: 5px;
+	padding-right: 10px;
+
+} 
+
+
 
 tfoot tr td {
 	text-align: right;
