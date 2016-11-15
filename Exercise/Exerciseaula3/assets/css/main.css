@@ -1,0 +1,44 @@
+body {
+	background-color: #DBE7E8;
+}
+.box {
+	height: 150px;
+	width: 800px;
+}
+
+h1 {
+	font-family: Tahoma;
+	color: #5390CF;
+	font-size: 30px;
+}
+span {
+	font-size: 12px;
+	float: right;
+}
+
+a {
+	font-size: 12px;
+	text-decoration: none;
+}
+a:hover {
+	color: blue;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+}
+
+.container {
+	font-size: 0.1em;
+	text-align: justify;
+	font-family: Tahoma;
+}
+
+.container {
+	width: 800px;
+}
+
+.container:hover {
+	font-size: 1em;
+}
