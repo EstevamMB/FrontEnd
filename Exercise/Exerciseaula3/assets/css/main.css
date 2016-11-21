@@ -28,17 +28,20 @@ img {
 	width: 300px;
 	height: 200px;
 }
-
-.container {
-	font-size: 0.1em;
-	text-align: justify;
-	font-family: Tahoma;
-}
-
 .container {
 	width: 800px;
 }
 
-.container:hover {
-	font-size: 1em;
+.container p {
+	font-size: 0.1em;
+	text-align: justify;
+	font-family: Tahoma;
+	animation-duration: 1s;
+	transition: all 1s ease-in-out;
 }
+
+.container p {
+	transform: transition 1s;
+}
+
+
